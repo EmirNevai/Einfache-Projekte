@@ -11,7 +11,7 @@ global beute_schlafzimmer
 beute_wohnzimmer = ["Silbernen Besteckset", "einen teuren Wein"]
 beute_kinderzimmer = ["Ipad", "Sparschwein"]
 beute_badezimmer = ["Parfüm"]
-beute_schlafzimmer = ["Geld", "IWC Uhr", "Goldkette", "Goldarmband"]
+beute_schlafzimmer = ["Geld", "IWC-Uhr", "Goldkette", "Goldarmband"]
 beute_schlaflen = len(beute_schlafzimmer)
 beute_kinderlen = len(beute_kinderzimmer)
 beute_badelen = len(beute_badezimmer)
